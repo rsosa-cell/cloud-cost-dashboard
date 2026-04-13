@@ -1,0 +1,17 @@
+# env files
+.env
+server/.env
+
+# secrets
+server/gcp-key.json
+service-account.json
+
+# dependencies
+node_modules
+
+# builds
+dist
+dist-ssr
+
+# logs
+*.log
