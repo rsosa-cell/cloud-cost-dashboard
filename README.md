@@ -67,6 +67,12 @@ To transform raw Google Cloud billing data into clear, actionable financial insi
 
 ```bash
 git clone https://github.com/rsosa-cell/cloud-cost-dashboard.git
+
+Backend
+cd server
+node index.js
+
+Frontend
 cd cloud-cost-dashboard
 npm install
 npm run dev
